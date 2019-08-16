@@ -15,3 +15,7 @@ message1 = client1.messages \
 
 
 print(message1.sid)
+print(message1.body)
+print(message1.api_version)
+print(message1.price)
+print(message1.status)
